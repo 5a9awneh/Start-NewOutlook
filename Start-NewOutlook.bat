@@ -1,0 +1,1 @@
+powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -File "%~dp0Start-NewOutlook.ps1"

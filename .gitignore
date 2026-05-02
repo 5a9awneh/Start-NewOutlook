@@ -1,0 +1,14 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/
+*.suo
+
+# Temp / backup
+*.tmp
+*.bak
+*.orig
