@@ -1,5 +1,9 @@
 # Start-NewOutlook
 
+<!-- BADGES:START -->
+![License](https://img.shields.io/github/license/5a9awneh/Start-NewOutlook?style=for-the-badge) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Last Commit](https://img.shields.io/github/last-commit/5a9awneh/Start-NewOutlook?style=for-the-badge)
+<!-- BADGES:END -->
+
 Automatically launches New Outlook (Microsoft Store version) on Windows startup. Drop the files into your Startup folder and New Outlook will launch silently every time you log in.
 
 ## ⚙️ Requirements
